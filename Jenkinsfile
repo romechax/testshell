@@ -8,6 +8,7 @@ pipeline {
                 echo 'This is new branch'    
 
                 echo 'This is second branch'
+                echo 'This is third branch'
 
 
 
